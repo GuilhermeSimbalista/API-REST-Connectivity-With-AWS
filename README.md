@@ -1,2 +1,2 @@
 # API-REST-Connectivity-With-AWS
-Game registration api with connection to AWS
+Game Registration API Connecting to RDS and EC2 on AWS
